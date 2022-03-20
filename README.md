@@ -1,6 +1,6 @@
 # Yoga
 
-<img src="./assets/imagem.png" alt="print-login" width="250" >
+<img src="./assets/imagem.png" alt="print-yoga" width="1000" >
 
 > Project result - figma - Dev Club class Yoga.
 
